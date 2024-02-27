@@ -1,0 +1,97 @@
+body {
+  
+  background: linear-gradient(to bottom, #fffdf5 0%, #d1a43c 130%);
+  /* Use the Amber-100 to Amber-400 gradient values */
+}
+.imgOne img{
+  width: 800px; /* Change to the desired width */
+  height: 200px; /* Maintain aspect ratio */
+}
+.imgOne{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.second-part{
+  display: flex;
+ 
+}
+.imgTwo img{
+    width: 500px;
+    height: 700px;
+}
+
+.imgThree img{
+  width: 1300px;
+  height: 510px;
+}
+.textOne{
+  font-size: medium;
+}
+.textFour{
+  font-size: medium;
+}
+.third-part h2{
+  font-size: medium;
+  display: flex;
+  justify-content: center;
+}
+.four-part{
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding: 40px;
+  color: white;
+  margin-top: 20px;
+}
+.phone{
+  display: flex;
+  gap: 8px;
+}
+.globe{
+  display: flex;
+  gap: 8px;
+}
+.facebook{
+  display: flex;
+  gap: 8px;
+}
+.fb{
+   font-size: 30px;
+   
+  margin-top: 12px;
+}
+.gb{
+  font-size: 30px;
+   
+  margin-top: 12px;
+}
+.ph{
+  font-size: 30px;
+   
+  margin-top: 12px;
+}
+.dot{
+  color: red;
+  
+}
+.footer-text{
+  font-size: medium;
+}
+.line {
+  border: 1px solid red;
+}
+.high{
+  color: red;
+}
+.categories {
+  text-align: center;
+  
+}
+
+.categories span {
+ color:red;
+  margin: 0 5px; /* Add some spacing around the | sign */
+}
